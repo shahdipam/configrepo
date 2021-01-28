@@ -1,0 +1,9 @@
+my:
+  greeting: Hello Darkness my old friend from the config server
+  list:
+    values: One, Two, Three, Four
+   
+db:
+  connection: connection-string-here-from-config-git
+  host: 127.0.0.1
+  port: 8086
